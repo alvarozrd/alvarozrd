@@ -1,9 +1,7 @@
 # 👋 Olá, eu sou o Álvaro
 
 
->> Estudante de Análise e Desenvolvimento de Sistemas no IFSP
->> Bolsista de Iniciação Científica (CNPq)
->> Focado em desenvolvimento de software e pesquisa científica
+>> Bolsista de Iniciação Científica (CNPq), focado em desenvolvimento de software e pesquisa científica.
 
 ---
 
