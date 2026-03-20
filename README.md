@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou o Álvaro
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas no IFSP;
-🔬 Bolsista de Iniciação Científica (CNPq);
-🚀 Focado em desenvolvimento de software e pesquisa científica;
+
+>> Estudante de Análise e Desenvolvimento de Sistemas no IFSP
+>> Bolsista de Iniciação Científica (CNPq)
+>> Focado em desenvolvimento de software e pesquisa científica
 
 ---
 
@@ -17,7 +18,7 @@ Tecnologias em aprendizado
 - JavaScript
 - Banco de Dados
 
-
+---
 Email : contatoalp@icloud.com
 
 
