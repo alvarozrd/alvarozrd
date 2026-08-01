@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Álvaro
 
 
->> Bolsista de Iniciação Científica (CNPq), focado em desenvolvimento de software e pesquisa científica.
+> Bolsista de Iniciação Científica (CNPq), focado em desenvolvimento de software e pesquisa científica.
 
 ---
 
