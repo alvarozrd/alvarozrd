@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Tecnologias em estudo" src="https://skillicons.dev/icons?i=java,python,cpp,mysql,html,css,git,github&perline=8" />
+    <img alt="Tecnologias em estudo" src="https://skillicons.dev/icons?i=java,python,cpp,mysql,html,css,js,git,github&perline=9" />
   </a>
 </p>
 
