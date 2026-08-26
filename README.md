@@ -33,5 +33,5 @@
 ---
 
 <p align="center">
-  Construindo projetos pequenos, estudos consistentes e experimentos que conectam fundamentos da computação com aplicações reais.
+  Construindo projetos pequenos, estudos consistentes e experimentos que percorrem os fundamentos da computação.
 </p>
